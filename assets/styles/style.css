@@ -1,0 +1,16 @@
+$mainColor:#555;
+body{
+    margin:0px;
+    color:$mainColor;
+    columns:300px 3;
+}
+.box{
+    a{
+
+    }
+    b{
+
+    }
+}
+
+
